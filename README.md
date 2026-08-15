@@ -1,4 +1,4 @@
-# Adnan Hai — Adlynk
+# Adnan Sami — Adlynk
 
 Adlynk is a Laravel 10 web application foundation configured with a Vite-powered frontend, MySQL database support, authentication/session tooling, Laravel Sanctum, Laravel Socialite, and audit logging.
 
@@ -327,7 +327,7 @@ Built with:
 
 ## Author
 
-**Adnan Hai**
+**Adnan Sami**
 
 B.Tech AI & Data Science | AI/ML & Software Development
 
